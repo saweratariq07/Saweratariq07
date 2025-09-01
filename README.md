@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sawera Tariq
 
-I'm a **Full Stack Web Developer** with **3+ years of experience building modern, responsive, and high-performance web applications**.  
+I'm a **Full Stack Web Developer** with **3+ years of experience  building **modern, responsive, and high-performance web applications**.  
 I specialize in **MERN Stack (MongoDB, Express.js, React, Node.js)** and **PHP/Laravel**, delivering clean, maintainable, and fully functional digital solutions.
 
 I’ve worked on **personal projects, startups, and freelance clients**, helping businesses launch, redesign, or scale their online presence.
@@ -14,7 +14,7 @@ I’ve worked on **personal projects, startups, and freelance clients**, helping
 💰 **Rates:** `PKR 10,000 / USD $50+` (Depends on project scope)  
 📅 **Delivery:** 2–7 days average  
 🕓 **Availability:** Part-time / Contract  
-📬 **Response:** Within 1–2 hours  
+📬 **Response:** Within 1–2 hours
 
 ---
 
@@ -56,11 +56,6 @@ I’ve worked on **personal projects, startups, and freelance clients**, helping
 
 ---
 
-## 📊 GitHub Stats  
-
-![Profile Views](https://komarev.com/ghpvc/?username=saweratariq07&color=blue)  
-![Followers](https://img.shields.io/github/followers/saweratariq07?style=social)  
-![Stars](https://img.shields.io/github/stars/saweratariq07?style=social)  
 
 ![](https://github-readme-stats.vercel.app/api?username=saweratariq07&theme=tokyonight&show_icons=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saweratariq07&theme=tokyonight)  
