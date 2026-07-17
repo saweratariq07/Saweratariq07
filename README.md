@@ -10,8 +10,6 @@ I’ve worked on **personal projects, startups, and freelance clients**, helping
 ## 💼 Freelance & Remote Work
 
 🎯 I work with **startups, agencies, and businesses** to build **websites, dashboards, and web apps**.  
-
-💰 **Rates:** `PKR 10,000 / USD $50+` (Depends on project scope)  
 📅 **Delivery:** 2–7 days average  
 🕓 **Availability:** Part-time / Contract  
 📬 **Response:** Within 1–2 hours
