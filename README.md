@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Sawera Tariq
 
-I'm a **Full Stack Web Developer** with **3+ years of experience  building **modern, responsive, and high-performance web applications**.  
+I'm a **Full Stack Web Developer** with **4+ years of experience  building **modern, responsive, and high-performance web applications**.  
 I specialize in **MERN Stack (MongoDB, Express.js, React, Node.js)** and **PHP/Laravel**, delivering clean, maintainable, and fully functional digital solutions.
 
 I’ve worked on **personal projects, startups, and freelance clients**, helping businesses launch, redesign, or scale their online presence.
 
----
-
 ## 💼 Freelance & Remote Work
-
 🎯 I work with **startups, agencies, and businesses** to build **websites, dashboards, and web apps**.  
 📅 **Delivery:** 2–7 days average  
 🕓 **Availability:** Part-time / Contract  
